@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to baby195lxl's Pages
 
-You can use the [editor on GitHub](https://github.com/baby195lxl/baby195lxl.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+I use the github blog to write down some tips and some ideas in my life.  
+Actually, I am major in Civil Engineering--it means I'm a rookie, so please don't be mad at me when I ask some dull question.  
+THANKS!  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
