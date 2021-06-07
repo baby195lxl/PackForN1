@@ -1,7 +1,7 @@
 ## Welcome to baby195lxl's Pages
 
 
-I use the github blog to write down some tips and some ideas in my life.  
+I use the github blog to write down some tips and ideas in my life.  
 Actually, I am major in Civil Engineering--it means ***I'm a rookie***, so please don't be mad at me when I ask some dull question.  
 THANKS!  
 
