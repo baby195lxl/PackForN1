@@ -7,7 +7,7 @@ THANKS!
 
 ### Pack the OpenWrt for Phicomm-N1  
 1. Download the source code from [unifreq's repository](https://github.com/unifreq/openwrt_packit "unifreq's repository") or [unifreq's telegram channel](https://t.me/openwrt_flippy "unifreq's telegram channel")  
-   *  All we need is three files: `Modules/dbt-amlogic/boot`
+   *  <font size="1">All we need is three files: `Modules/dbt-amlogic/boot`</font><br /> 
 -----------------------------------------------------------------------------------------------------------
 2. Create the /home/opt/kernel folder in Linux in VMware *(I recommand use Ubuntu)*   
    * use `sudo mkdir /home/opt/kernel`
