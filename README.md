@@ -22,7 +22,7 @@ THANKS!
 
 -----------------------------------------------------------------------------------------------------------
 * Create the /home/username/opt/kernel folder in Linux in VMware *(I recommand use Ubuntu)*   
-use `sudo mkdir /home/username/opt/kernel`  
+ `sudo mkdir /home/username/opt/kernel`  
 **ATTENTION!!! 'username' IS YOUR USERNAME!**
 
 -----------------------------------------------------------------------------------------------------------
