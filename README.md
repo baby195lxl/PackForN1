@@ -2,32 +2,14 @@
 
 
 I use the github blog to write down some tips and ideas in my life.  
-Actually, I am major in Civil Engineering--it means ***I'm a rookie***, so please don't be mad at me when I ask some dull question.  
+Actually,I am major in Civil Engineering--it means ***I'm a rookie***,so please don't be mad at me when I ask some dull question.  
 THANKS!  
 
-### Markdown
+### Pack the OpenWrt for Phicomm-N1  
+1. Download the source code from [unifreq's repository](https://github.com/unifreq/openwrt_packit "unifreq's repository") or [unifreq's telegram channel](https://t.me/openwrt_flippy "unifreq's telegram channel")  
+   *  all we need is three files: **Modules**/**dbt-amlogic**/**boot**
+2. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
