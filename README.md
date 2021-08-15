@@ -5,7 +5,7 @@ I use the github blog to write down some tips and ideas in my life.
 Actually,I am major in Civil Engineering--it means ***I'm a rookie***,so please don't be mad at me when I ask some dull question.  
 THANKS!  
 
-### NO.1-Pack the OpenWrt for Phicomm-N1  
+### Pack the OpenWrt for Phicomm-N1  
 * Download the source code from [unifreq's repository](https://github.com/unifreq/openwrt_packit "unifreq's repository")   
 ![捕获](https://user-images.githubusercontent.com/48685934/120991819-93a46f80-c7b4-11eb-96a1-bd70c52b23c7.JPG)
 
